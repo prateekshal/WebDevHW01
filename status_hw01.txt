@@ -1,0 +1,33 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+:  Prateeksha Lingashettar
+
+
+2. Which VPS & domain providers did you choose?
+:  VPS is Vultr and domain provider is Joker.
+
+
+3. What domain name did you register?
+:  plinagashettar.website
+
+
+4. Which parts of this assignment did you have trouble with, if any?
+:  DNS registration and linking to the sites.
+
+
+5. Whats the URL for your git repository?
+:  https://github.com/prateekshal/WebDevHW01
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1 : DONE
+ - Task 2 : DONE
+ - Task 3 : DONE
+ - Task 4 : DONE
+ - Task 5 : DONE
+ - Task 6 : DONE
+ - Task 7 : DONE
+ - Task 8 : 
+ - Task 9
